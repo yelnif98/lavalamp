@@ -10,7 +10,6 @@ then for each pair:
   3) Generates BYTES_PER_CHUNK bytes, in sub-calls of ≤ MAX_BYTES_PER_GEN bytes
   4) Appends that to random.bin
 
-Produces a corpus you can feed to dieharder, PractRand, etc.
 """
 
 from pathlib import Path
