@@ -1,3 +1,5 @@
+#This code was entirely generated from ChatGPT
+
 #!/usr/bin/env python3
 """
 make_random.py
