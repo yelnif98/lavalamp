@@ -1,5 +1,10 @@
-cff version: 1.2.0
-author: Finley Lewis
-title: "Exploring Entropy Sources as Seed to Ensure Randomness"
-date-released: 16-05-2025
+cff-version: 1.2.0
+message: "For Cybersecurity Referencing"
+authors:
+- family-names: "Lewis"
+  given-names: "Finley"
+title: "lavalamp"
+version: 1.0.0
+date-released: 2025-05-16
 url: "https://github.com/yelnif98/lavalamp"
+
